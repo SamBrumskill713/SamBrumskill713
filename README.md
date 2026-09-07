@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Sam, I'm a games engineer currently based in Newcastle Upon Tyne, United Kingdom.
+
+I mainly work on games, specifically game engines and the technologies that make them. This includes Graphics, Physics, Networking, AI, ETC.
+
+My main language of choice is C++ with my favourite tools being Visual Studio, Nsight, Git, and Jira.
+
+My pinned projects are work I did for my Masters in Games Engineering at Newcastle University, these cover [graphics (OpenGL)](https://github.com/SamBrumskill713/Graphics-CSC8502), [Game Technologies](https://github.com/SamBrumskill713/Game-Technologies-CSC8503), and my dissertation on [Data-Oriented Design](https://github.com/SamBrumskill713/Data-Orienated-Design-Dissertation-CSC8599).
+
+Hobbies: 
+ - Games
+ - Film
+ - Music
+ - Gym
+ - Rock Climbing
