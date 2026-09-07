@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I'm Sam, I'm a games engineer currently based in Newcastle Upon Tyne, United Kingdom.
 
-I mainly work on games, specifically game engines and the technologies that make them. This includes Graphics, Physics, Networking, AI, ETC.
+I mainly work on games, specifically game engines and the technologies that make them. This includes Graphics, Physics, Networking and AI
 
 My main language of choice is C++ with my favourite tools being Visual Studio, Nsight, Git, and Jira.
 
