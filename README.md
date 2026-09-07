@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm [Sam](https://sambrumskill713.github.io/), I'm a games engineer currently based in Newcastle Upon Tyne, United Kingdom.
+I'm [Sam](https://sambrumskill713.github.io/), a games engineer currently based in Newcastle Upon Tyne, United Kingdom.
 
 I mainly work on games, specifically game engines and the technologies that make them. This includes Graphics, Physics, Networking and AI
 
