@@ -27,4 +27,3 @@ Hobbies:
  - Film
  - Music
  - Gym
- - Rock Climbing
